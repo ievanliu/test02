@@ -1,5 +1,9 @@
 <<<<<<< HEAD
-branch dev* test
+<<<<<<< HEAD
+branch dev! test
+=======
+branch dev! test
+>>>>>>> dev
 =======
 branch dev@ test
 >>>>>>> dev
